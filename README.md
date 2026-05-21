@@ -85,3 +85,23 @@ Step 6: Input the code on the padlock on the exit door
 </details>
 
 # References
+
+### Audio
+
+### Assets
+
+- Fab (2024). Fab. [online] Fab.com. Available at: https://www.fab.com/listings/4da78da6-44b3-4adf-8883-219fe17b44d4 [Accessed 18 May 2026].
+- Fab.com. (2026). Flashlight. [online] Available at: https://www.fab.com/listings/bd9c7183-a4d2-40ce-9c68-8c4756cad05d [Accessed 20 May 2026].
+- Anon, (n.d.). Available at: https://www.fab.com/listings/084b27ca-1ad0-4e44-8f03-2c655a760f8f. [Accessed 20 May 2026]
+- Fab (2024). Fab. [online] Fab.com. Available at: https://www.fab.com/listings/33f9b4a3-a495-4db7-aeb0-69d9f93fa907. [Accessed 20 May 2026]
+- Sketchfab (2016). Sketchfab. [online] Sketchfab. Available at: https://sketchfab.com/3d-models/hbos-the-sopranos-tonys-macaroni-pasta-fa1d9d8dc6f644768a5dcbb8e7ab1d1f [Accessed 19 May 2026].
+- Fab.com. (2026). Whitman’s Salmagundi Chocolates Tin (c. 1924-30). [online] Available at: https://www.fab.com/listings/7b5837fd-4856-4fed-8067-b31c9a3a663d [Accessed 18 May 2026].
+
+‌
+
+‌
+
+‌
+‌
+‌
+‌
