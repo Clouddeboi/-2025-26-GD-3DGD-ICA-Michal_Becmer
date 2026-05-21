@@ -88,6 +88,17 @@ Step 6: Input the code on the padlock on the exit door
 
 ### Audio
 
+- Freesound.org. (2024). Freesound - 01497 brawling 2.wav by Robinhood76. [online] Available at: https://freesound.org/people/Robinhood76/sounds/90936/[Accessed 20 May 2026].
+- Freesound. (2026). Open Toolbox by elliotlp. [online] Available at: https://freesound.org/people/elliotlp/sounds/277311/ [Accessed 20 May 2026].
+- Pixabay. (2026). Footsteps Sound Effect by freesound_community. [online] Available at: https://pixabay.com/sound-effects/footsteps-14743/ [Accessed 21 May 2026].
+- Pixabay. (2026). Footsteps on Carpet by freesound_community. [online] Available at: https://pixabay.com/sound-effects/footsteps-on-carpet-99860/ [Accessed 20 May 2026].
+- Freesound. (2026). Wood Box by user unknown. [online] Available at: https://freesound.org/s/573654/ [Accessed 20 May 2026].
+- Freesound. (2026). Flashlight On by LightYarn. [online] Available at: https://freesound.org/people/LightYarn/sounds/173420/ [Accessed 20 May 2026].
+- Freesound. (2026). Flashlight Off by LightYarn. [online] Available at: https://freesound.org/people/LightYarn/sounds/173419/ [Accessed 20 May 2026].
+- Freesound. (2026). Light Switch by DWOBoyle. [online] Available at: https://freesound.org/people/DWOBoyle/sounds/144289/ [Accessed 20 May 2026].
+- Freesound. (2026). Pick Up by IENBA. [online] Available at: https://freesound.org/people/IENBA/sounds/831642/ [Accessed 20 May 2026].
+- Bond Factory (2021). Resident Evil Village | Key Item Acquired [Sound Effect]. [online] YouTube. Available at: https://www.youtube.com/watch?v=9AlEe_P68yY [Accessed 21 May 2026].
+
 ### Assets
 
 - Fab (2024). Fab. [online] Fab.com. Available at: https://www.fab.com/listings/4da78da6-44b3-4adf-8883-219fe17b44d4 [Accessed 18 May 2026].
