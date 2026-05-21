@@ -108,6 +108,16 @@ Step 6: Input the code on the padlock on the exit door
 - Sketchfab (2016). Sketchfab. [online] Sketchfab. Available at: https://sketchfab.com/3d-models/hbos-the-sopranos-tonys-macaroni-pasta-fa1d9d8dc6f644768a5dcbb8e7ab1d1f [Accessed 19 May 2026].
 - Fab.com. (2026). Whitman’s Salmagundi Chocolates Tin (c. 1924-30). [online] Available at: https://www.fab.com/listings/7b5837fd-4856-4fed-8067-b31c9a3a663d [Accessed 18 May 2026].
 
+‌### Tutorials
+
+- HALbot Studios (2025). How To Display Interaction Text In UE5 | Customize & Change Text Based On The State. [online] YouTube. Available at: https://www.youtube.com/watch?v=zzPhVa8Dqsk [Accessed 20 May 2026].
+- Code Things (2024). How to Make An Inspection System in Unreal Engine 5 | Resident Evil & Horror Game Mechanic. [online] YouTube. Available at: https://www.youtube.com/watch?v=SKO4DDjnP70 [Accessed 19 May 2026].
+- Code Things (2024). How To Make an Interact System in Unreal Engine 5 Tutorial (First Person Character). [online] YouTube. Available at: https://www.youtube.com/watch?v=u-JxS8yy6ao [Accessed 18 May. 2025].
+- 
+‌
+
+‌
+
 ‌
 
 ‌
