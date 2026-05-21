@@ -113,7 +113,10 @@ Step 6: Input the code on the padlock on the exit door
 - HALbot Studios (2025). How To Display Interaction Text In UE5 | Customize & Change Text Based On The State. [online] YouTube. Available at: https://www.youtube.com/watch?v=zzPhVa8Dqsk [Accessed 20 May 2026].
 - Code Things (2024). How to Make An Inspection System in Unreal Engine 5 | Resident Evil & Horror Game Mechanic. [online] YouTube. Available at: https://www.youtube.com/watch?v=SKO4DDjnP70 [Accessed 19 May 2026].
 - Code Things (2024). How To Make an Interact System in Unreal Engine 5 Tutorial (First Person Character). [online] YouTube. Available at: https://www.youtube.com/watch?v=u-JxS8yy6ao [Accessed 18 May. 2025].
-- 
+
+# Video Link
+
+https://www.youtube.com/watch?v=1weoM2rmMx4
 ‌
 
 ‌
